@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "test-web-app-3a2e4"
-  }
+    "default": "admin-panel-84aaa",
+    "Y": "admin-panel-84aaa"
+  },
+  "targets": {}
 }
