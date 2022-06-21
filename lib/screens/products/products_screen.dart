@@ -29,7 +29,7 @@ class _ProductScreenState extends State<ProductScreen> {
     context.read<ProductController>()..getallProduct();
   }
 
-  // final DataGridController _dataGridController = DataGridController();
+  final DataGridController _dataGridController = DataGridController();
 
   @override
   Widget build(BuildContext context) {
